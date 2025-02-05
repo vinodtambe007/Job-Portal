@@ -5,7 +5,9 @@ The App have 2 Role Employer and Candidate.
 
 ### [live preview]()
 
-[![react Service-app](https://github.com/vinodtambe007/Service-App/blob/main/admin-homepage.png)]()
+[![react Job-Portal](https://github.com/vinodtambe007/Job-Portal/blob/main/After%20Login.png)]()
+<img align="right" alt="coding" width="500" src="https://github.com/vinodtambe007/Job-Portal/blob/main/Employer%20Job%20Page.png" >
+<img align="right" alt="coding" width="500" src="https://github.com/vinodtambe007/Job-Portal/blob/main/Categories%20On%20Home%20Page.png" >
 
 ### Features
 
